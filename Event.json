@@ -1,0 +1,36 @@
+[
+    {
+      "id":123,
+      "category":"animal walfare",
+      "title":"Meow day",
+      "description":"find new feline at this event",
+      "location":"Meow Twon",
+      "date":"January 21 2028",
+      "time":"12:00",
+      "petsAllowed":"true",
+      "organizer":"Kat laydee"
+      },
+      {
+        "id":456,
+        "category":"animal welcome",
+        "title":"Cat adoption day",
+        "description":"find new feline at this event",
+        "location":"Meow Twon",
+        "date":"January 21 2028",
+        "time":"12:00",
+        "petsAllowed":"true",
+        "organizer":"Kat laydee"
+      },
+      {
+        "id":789,
+        "category":"animal Denid",
+        "title":"Meow the best day",
+        "description":"find new feline at this event",
+        "location":"Meow Twon",
+        "date":"January 21 2028",
+        "time":"12:00",
+        "petsAllowed":"true",
+        "organizer":"Kat laydee"
+      }
+
+  ]
